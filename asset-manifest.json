@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/airbnb-invest-house/static/css/main.92545af7.css",
+    "main.js": "/airbnb-invest-house/static/js/main.77a3e94a.js",
+    "index.html": "/airbnb-invest-house/index.html",
+    "main.92545af7.css.map": "/airbnb-invest-house/static/css/main.92545af7.css.map",
+    "main.77a3e94a.js.map": "/airbnb-invest-house/static/js/main.77a3e94a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92545af7.css",
+    "static/js/main.77a3e94a.js"
+  ]
+}
